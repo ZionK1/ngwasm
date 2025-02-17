@@ -1,1 +1,1 @@
-# ngwasm
+# Ngwasm: Ngspice-WebAssembly Visualizer
